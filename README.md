@@ -1,6 +1,17 @@
 
-## Steps
 
+# auth-server-remote
+
+Simple Authorization server and Resource server communication
+
+```
+cd auth-server && mvn spring-boot:run
+
+cd resource-server && mvn spring-boot:run
+```
+
+
+## Steps
 
 ### get token from authorization server
 
