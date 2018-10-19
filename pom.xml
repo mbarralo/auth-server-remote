@@ -15,5 +15,9 @@
         <java.version>1.8</java.version>
     </properties>
 
+    <modules>
+        <module>auth-server</module>
+        <module>resource-server</module>
+    </modules>
     
 </project>
